@@ -1,5 +1,9 @@
 {
     "editor.detectIndentation": false,
     "editor.autoIndent": false,
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#ffffff16"
+    },
+    "peacock.color": "#9fbb80"
 }
